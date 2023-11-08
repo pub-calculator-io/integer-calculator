@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Integer Calculator](https://www.calculator.io/integer-calculator/ "Integer Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_integer_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Integer Calculator to the sidebar through the `Appearance -> Widgets -> Integer Calculator` menu in WordPress.
+* Add the shortcode `[ci_integer_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_integer_calculator(); ?>` to your template where you would like the Integer Calculator to appear.
 
 == Screenshots ==
