@@ -13,6 +13,8 @@ Adding and subtracting integers calculator allows adding and subtracting positiv
 
 Adding and subtracting integers calculator allows adding and subtracting positive and negative integers and decimals, demonstrating the solution algorithm.
 
+[Integer Calculator Homepage](https://www.calculator.io/integer-calculator/ "Integer Calculator Homepage")
+
 __Shortcode__
 
 Use the Integer Calculator shortcode:
