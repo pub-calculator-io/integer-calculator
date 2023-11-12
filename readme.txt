@@ -13,34 +13,35 @@ Adding and subtracting integers calculator allows adding and subtracting positiv
 
 Adding and subtracting integers calculator allows adding and subtracting positive and negative integers and decimals, demonstrating the solution algorithm.
 
-[Integer Calculator Homepage](https://www.calculator.io/integer-calculator/ "Integer Calculator Homepage")
+[https://www.calculator.io/integer-calculator/](https://www.calculator.io/integer-calculator/)
 
-__Shortcode__
-
-Use the Integer Calculator shortcode:
+__Integer Calculator Shortcode__
 
 `[ci_integer_calculator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_integer_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Integer Calculator](https://www.calculator.io/integer-calculator/ "Integer Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Integer Calculator Usage ==
+
 * Add the shortcode `[ci_integer_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_integer_calculator(); ?>` to your template where you would like the Integer Calculator to appear.
 
 == Screenshots ==
+
 1. The Integer Calculator Input Form.
 2. The Integer Calculator Calculation Results.
+
+== Libraries used in Integer Calculator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
