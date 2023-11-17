@@ -1,6 +1,6 @@
 === Integer Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: integer calculator, calculate integers, integer operations, integer arithmetic, integer math, integer addition, integer subtraction, integer multiplication, integer division, integer equations, integer problems
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
