@@ -1,4 +1,4 @@
-# Integer Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Integer Calculator Widget for WordPress
 
 Adding and subtracting integers calculator allows adding and subtracting positive and negative integers and decimals, demonstrating the solution algorithm.
 
