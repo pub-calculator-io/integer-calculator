@@ -1,4 +1,4 @@
-=== Integer Calculator by www.calculator.io ===
+=== CI Integer calculator ===
 Contributors: calculatorio
 Tags: integer calculator, calculate integers, integer operations, integer arithmetic, integer math, integer addition, integer subtraction, integer multiplication, integer division, integer equations, integer problems
 Requires at least: 5.0

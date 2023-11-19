@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Integer Calculator by www.calculator.io
+Plugin Name: CI Integer calculator
 Plugin URI: https://www.calculator.io/integer-calculator/
 Description: Adding and subtracting integers calculator allows adding and subtracting positive and negative integers and decimals, demonstrating the solution algorithm.
 Version: 1.0.0
