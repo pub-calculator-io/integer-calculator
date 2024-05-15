@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Integer Calcula
 == Screenshots ==
 
 1. The Integer Calculator Input Form.
-2. The Integer Calculator Calculation Results.
 
 == Installation ==
 

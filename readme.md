@@ -3,7 +3,6 @@
 Adding and subtracting integers calculator allows adding and subtracting positive and negative integers and decimals, demonstrating the solution algorithm.
 
 ![Integer Calculator Input Form](/assets/images/screenshot-1.png "Integer Calculator Input Form")
-![Integer Calculator Calculation Results](/assets/images/screenshot-2.png "Integer Calculator Calculation Results")
 
 ## Installation
 
