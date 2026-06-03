@@ -1,6 +1,6 @@
 # Integer Calculator Widget for WordPress
 
-Adding and subtracting integers calculator allows adding and subtracting positive and negative integers and decimals, demonstrating the solution algorithm.
+Master math instantly! Use our free Integer Calculator to add, subtract, multiply, and divide positive and negative numbers with step-by-step solutions.
 
 ![Integer Calculator Input Form](/assets/images/screenshot-1.png "Integer Calculator Input Form")
 
@@ -11,8 +11,8 @@ Adding and subtracting integers calculator allows adding and subtracting positiv
 3. Activate the [Integer Calculator](https://www.calculator.io/integer-calculator/ "Integer Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_integer_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_integer_calculator(); ?>` to your template where you would like the Integer Calculator to appear.
+* Add the shortcode `[calcio_integer_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_integer_calculator(); ?>` to your template where you would like the Integer Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
